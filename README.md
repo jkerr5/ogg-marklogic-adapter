@@ -107,8 +107,6 @@ gg.handler.marklogic.user=admin
 gg.handler.marklogic.password=admin
 gg.handler.marklogic.auth=digest
 
-#TODO add XML support
-#Currently json is the only format supported. XML 
 gg.handler.marklogic.format=json
 gg.handler.marklogic.mode=tx
 goldengate.userexit.timestamp=utc
